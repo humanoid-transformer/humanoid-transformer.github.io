@@ -1265,6 +1265,11 @@ html.w-mod-touch * {
         grid-template-columns: 33vw 33vw 33vw;
     }
 
+    .contribution {
+        font-size: 1.33vw;
+        padding-top: 5vw;
+    }
+    
     .berkeley {
         margin-top: 5vw;
         font-size: 2vw;
