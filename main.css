@@ -104,11 +104,11 @@ body {
 }
 
 .contribution {
-    color: #2f2f2f;
+    color: rgba(0, 0, 0, 0.5);
     font-family: Gelasio,"Avenir Next",Helvetica,sans-serif;
     font-weight: normal;
-    font-size: 0.8vw;
-    padding-top: 0.3vw;
+    font-size: 0.67vw;
+    padding-top: 1.0vw;
     text-align: center;
 }
 
